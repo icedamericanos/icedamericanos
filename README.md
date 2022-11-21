@@ -2,6 +2,8 @@
 
 My name is Kacper, I am a CS student at [IIT](https://www.iit.edu/).
 
+ -----------------------
+
 #### 🍃 Projects:
 
 - **iitapp**: reliable mobile app made with Flutter that allows IIT students to view their schedule, upcoming assignments, and search for resources without the confusing nature of the current website.
