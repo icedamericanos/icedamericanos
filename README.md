@@ -1,6 +1,6 @@
 ### Hello :wave:
 
-My name is Kacper, I am a CS student at [IIT](https://www.iit.edu/).
+🏫 My name is Kacper, I am a CS student at [IIT](https://www.iit.edu/).
 
  -----------------------
 
