@@ -17,5 +17,6 @@ My name is Kacper, I am a CS student at [IIT](https://www.iit.edu/).
   - Time complexity
   - Fundementals in programming (in Java)
   
+ -----------------------
   
   💬 Discord - iced americano#0001
