@@ -21,4 +21,4 @@
   
  -----------------------
   
-  💬 Discord - iced americano#0001
+  💬 Not open to contact right now....
